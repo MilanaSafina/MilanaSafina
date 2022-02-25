@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilanaSafina
 - 👀 I’m interested in QA and Testing.
-- 🌱 I’m currently learning information about Manual Testing.
+- 🌱 Сurrently learning information about Manual Testing.
 
 
 <!---
